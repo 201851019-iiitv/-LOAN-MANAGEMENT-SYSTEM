@@ -5,6 +5,6 @@
 
 
 -------
-OOP GUI BASED A SMALL JAVA PROJECT
-THIS REPO IS WELL STRUCTERED JAVA AWT CLASS
+This project based on java GUI and file store system in java.
+This is simple  project using Awt class  .
 
