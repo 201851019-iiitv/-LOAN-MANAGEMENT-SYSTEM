@@ -192,7 +192,7 @@ implements ActionListener {
 	        reset.setSize(100, 20); 
 	        reset.setLocation(270, 750); 
 	        reset.addActionListener(this); 
-	        c.add(reset); 
+	         c.add(reset); 
 	        
 	        
 	        
